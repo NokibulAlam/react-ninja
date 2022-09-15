@@ -1,0 +1,13 @@
+
+h2{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 30px;
+}
+
+.power{
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+}

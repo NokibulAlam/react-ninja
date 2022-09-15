@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+#heroImg {
+    width: auto;
+    height: 450px;
+    margin-top: 8%;
+    margin-left: 15%;
+}
+
+.intro{
+    margin-top: 8%;
+    font-family: 'Roboto Mono', monospace;
+}
