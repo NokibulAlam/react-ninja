@@ -24,6 +24,10 @@ button{
     color: #2a2a38;
 }
 
+.err{
+    color: red;
+}
+
 img{
     width: 220px;
 }
